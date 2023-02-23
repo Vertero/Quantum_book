@@ -135,7 +135,7 @@
      \langle\mathrm{e}|=\left[\begin{array}{ll} 1 & 0 \end{array}\right],\langle\mathrm{g}|=\left[\begin{array}{ll} 0 & 1 \end{array}\right] 
 
 
-  和经典的比特类比，常将 :math:`|\mathrm{e}\rangle` 记做 :math:`|0\rangle` ，将 :math:`|\mathrm{g}\rangle` 记做，并称 :math:`|\mathrm{1}\rangle` 之为量子比特（quantum bits）。
+  和经典的比特类比，常将 :math:`|\mathrm{e}\rangle` 记做 :math:`|0\rangle` ，将 :math:`|\mathrm{g}\rangle` 记做 :math:`|\mathrm{1}\rangle` ，并称之为量子比特（quantum bits）。
 
   任意叠加态（superposition）  :math:`|\psi\rangle` 可以写作 :math:`|\mathrm{0}\rangle` 和 :math:`|\mathrm{1}\rangle` 的线性组合
 
